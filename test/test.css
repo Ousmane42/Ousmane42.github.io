@@ -1,0 +1,21 @@
+body {
+	background-color: #556B2F;
+}
+
+#container {
+	height: 100px;
+	width: 100px
+	background-color: #00FFFF;
+	border: 1px solid #FFFFFF;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.joli {
+	height: 50px;
+	width: auto;
+	margin: auto;
+	border: 2px solid #800000;
+	border-radius: 5px;
+}
